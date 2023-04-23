@@ -1,0 +1,233 @@
+Password: Authenticated=1
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "toidi_na_llats_ot_woh",
+		"UniqueId": "76561199117105981",
+		"KDA": "27/0/18",
+		"Score": "72",
+		"Dead": false,
+		"Cash": "13000",
+		"TeamId": "1"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "cincypat",
+		"UniqueId": "76561198124596725",
+		"KDA": "6/14/6",
+		"Score": "14",
+		"Dead": false,
+		"Cash": "16000",
+		"TeamId": "0"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "DEW IT",
+		"UniqueId": "76561198972563275",
+		"KDA": "2/9/1",
+		"Score": "-3",
+		"Dead": false,
+		"Cash": "33400",
+		"TeamId": "1"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+	},
+	"Successful": false
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "REEEEEEEEE2481",
+		"UniqueId": "76561199065689210",
+		"KDA": "8/16/7",
+		"Score": "19",
+		"Dead": false,
+		"Cash": "20000",
+		"TeamId": "0"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "CatholicSilverBack",
+		"UniqueId": "76561198998417524",
+		"KDA": "16/18/11",
+		"Score": "11",
+		"Dead": false,
+		"Cash": "16000",
+		"TeamId": "1"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "bennyz777",
+		"UniqueId": "76561198992457296",
+		"KDA": "12/26/12",
+		"Score": "4",
+		"Dead": false,
+		"Cash": "47500",
+		"TeamId": "0"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+	},
+	"Successful": false
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+	},
+	"Successful": false
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+	},
+	"Successful": false
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+	},
+	"Successful": false
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "Michael Greed",
+		"UniqueId": "76561198393647715",
+		"KDA": "33/22/12",
+		"Score": "74",
+		"Dead": false,
+		"Cash": "20000",
+		"TeamId": "0"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "VenderHill",
+		"UniqueId": "76561198118146358",
+		"KDA": "30/23/16",
+		"Score": "60",
+		"Dead": false,
+		"Cash": "16000",
+		"TeamId": "1"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+	},
+	"Successful": false
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "nuggetboi56",
+		"UniqueId": "76561198994311693",
+		"KDA": "14/13/15",
+		"Score": "39",
+		"Dead": false,
+		"Cash": "16000",
+		"TeamId": "1"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+	},
+	"Successful": false
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "Schr",
+		"UniqueId": "76561198197889814",
+		"KDA": "11/9/14",
+		"Score": "36",
+		"Dead": false,
+		"Cash": "16000",
+		"TeamId": "0"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "Lacunae 514",
+		"UniqueId": "76561198163341474",
+		"KDA": "9/9/10",
+		"Score": "24",
+		"Dead": true,
+		"Cash": "12700",
+		"TeamId": "0"
+	},
+	"Successful": true
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+	},
+	"Successful": false
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+	},
+	"Successful": false
+}
+{
+	"Command": "InspectPlayer",
+	"PlayerInfo":
+	{
+		"PlayerName": "hybrid",
+		"UniqueId": "76561199193311639",
+		"KDA": "5/5/4",
+		"Score": "10",
+		"Dead": false,
+		"Cash": "20000",
+		"TeamId": "0"
+	},
+	"Successful": true
+}
+Goodbye
