@@ -9,7 +9,7 @@ INSTALL ;<hhr><br><br>
   #unzip and remove zip<br><br>
 `cd inspect-every-5-mins-main`<br>
   #go to dir <br><br>
-`sudo chmod +x install.sh` <br>
+`sudo chmod +x run.sh` <br>
  `sudo chmod +x nc.sh` <br><br>
   #give install perms to run 2 scripts <br><br>
 `nano config.sh`<br> 
