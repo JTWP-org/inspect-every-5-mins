@@ -14,5 +14,5 @@ INSTALL ;<hhr><br><br>
   #give install perms to run 2 scripts <br><br>
 `nano config.sh`<br> 
 and set the password rcon port and server ip (U MUST DO THIS B4 running install )<br><br>
- `bash install.sh`<br>
+ `bash run.sh`<br>
 #the first time its run it will build some files then when run<br> after it will skip all that stuff unless<br> u change setUp="false" to< true in config.sh <br><br>
