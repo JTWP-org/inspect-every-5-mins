@@ -31,7 +31,7 @@ fi
     #build first batch file to get players steamids
     echo -e "${HASH}\nRefreshList\ndisconnect" > batch0.txt
     cat batch0.txt | head -n1 > batch1.txt
-
+    serverinfo
     sleep 3
     echo wait 3 seconds
     bash ${SCRIPT_DIR}/nc.sh ${SCRIPT_DIR}/batch0.txt | tail -n +2 | sed '$ d' | jq ' .PlayerList | .[] | .UniqueId ' | tr -d "\"" > playersNOW.txt 
