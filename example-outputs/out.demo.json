@@ -1,0 +1,62 @@
+{
+  "Command": "RefreshList",
+  "PlayerList": [
+    {
+      "Username": "Raykiller",
+      "UniqueId": "76561198178790054"
+    },
+    {
+      "Username": "robocop",
+      "UniqueId": "76561199064710063"
+    },
+    {
+      "Username": "OnionCat",
+      "UniqueId": "76561198311866657"
+    },
+    {
+      "Username": "Blue",
+      "UniqueId": "76561198073615821"
+    },
+    {
+      "Username": "Michael Greed",
+      "UniqueId": "76561198393647715"
+    },
+    {
+      "Username": "Age",
+      "UniqueId": "76561198821991464"
+    },
+    {
+      "Username": "toidi_na_llats_ot_woh",
+      "UniqueId": "76561199117105981"
+    },
+    {
+      "Username": "(bobsalad)",
+      "UniqueId": "76561198136335090"
+    },
+    {
+      "Username": "Mr seal",
+      "UniqueId": "76561198375318949"
+    },
+    {
+      "Username": "RayDawg",
+      "UniqueId": "76561198993839503"
+    },
+    {
+      "Username": "cincypat",
+      "UniqueId": "76561198124596725"
+    },
+    {
+      "Username": "Blue Nebula",
+      "UniqueId": "76561198332118745"
+    },
+    {
+      "Username": "Valinorian",
+      "UniqueId": "76561198044975350"
+    },
+    {
+      "Username": "tw.mrcload (nOT STREAMING)",
+      "UniqueId": "76561198069866562"
+    }
+  ],
+  "Successful": true
+}
