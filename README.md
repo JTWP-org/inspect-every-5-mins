@@ -1,4 +1,5 @@
 # inspect-every-5-mins
+nc slow cat was made by invicta_nz#6872 and found on old wiki
 
 built for nukey#0231 real quick for pavlov 
 
